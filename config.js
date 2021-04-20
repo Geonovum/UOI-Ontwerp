@@ -105,7 +105,7 @@ var respecConfig =
     },
     {
       name:       "Wilko Quak",
-      company:    "geonovum",
+      company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     },
   ],
