@@ -1,4 +1,4 @@
-# Oplossingsalternatieven op een rij
+## Oplossingsalternatieven op een rij
 
 In dit hoofdstuk worden vijf oplossingsvarianten nader uitgewerkt. Het betreft
 een uitwerking op hoofdlijnen ter afdekking van het spectrum van

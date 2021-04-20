@@ -1,4 +1,4 @@
-# Samenvatting
+## Samenvatting
 
 ### Regie op bouwgegevens
 

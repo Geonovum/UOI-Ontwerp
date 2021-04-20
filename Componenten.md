@@ -1,4 +1,4 @@
-# Componenten UOI-code-stelsel
+## Componenten UOI-code-stelsel
 
 In dit hoofdstuk wordt een ontwerp beschrijving gegeven van een mogelijk
 UOI-code-stelsel voor de gebouwde omgeving. We beginnen dit hoofdstuk met het
