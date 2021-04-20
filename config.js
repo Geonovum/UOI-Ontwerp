@@ -59,11 +59,11 @@ var respecConfig =
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
   //publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/geonovum/disgeo-UOI-Ontwerp",
+  github: "https://github.com/geonovum/UOI-Ontwerp",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/geonovum/Rapport/issues",
+  issueBase: "https://github.com/geonovum/UOI-Ontwerp/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://geonovum.github.io/disgeo-UOI-Ontwerp",
+  edDraftURI: "https://geonovum.github.io/UOI-Ontwerp",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
