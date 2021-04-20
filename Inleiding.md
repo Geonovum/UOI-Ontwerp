@@ -13,7 +13,7 @@ domein-overstijgend objecten te kunnen zoeken, vinden en interpreteren.
 Tenslotte worden de vijf onderkende alternatieven voor een UOI-code-stelsel, op
 hoofdlijnen benoemd.
 
-1.  Leeswijzer
+### Leeswijzer
 
 De inhoud van het rapport is soms technisch of zo u wilt theoretisch van aard
 omdat het hier om fundamentele domein overstijgende principes gaat. De lezer die
@@ -94,7 +94,7 @@ een identificerende code zoals de UOI-code, de logica en werking van de
 kennisgraaf en ruimtelijke analyse volgens het mechanisme van het omhullende
 volume.
 
-1.  Zoektocht naar het hoe en waarom van een UOI-code
+###  Zoektocht naar het hoe en waarom van een UOI-code
 
 Het project “Regie op Bouwgegevens” beoogt de informatievoorziening binnen de
 bouwsector (publiek & privaat) te verbeteren. De Unieke Objectidentificator
@@ -122,9 +122,10 @@ gefocussed op de vorm van de UOI-code als unieke object identificator en de
 meerwaarde die bereikt kan worden wanneer alle objecten in de gebouwde omgeving
 een UOI-code hebben respectievelijk krijgen.
 
-| [./media/image15.png](./media/image15.png)                                          |
-|-------------------------------------------------------------------------------------|
-| Figuur 1: UOI-code als sleutel tot gegevens over de gebouwde omgeving (bron Fibree) |
+<figure id="image15">
+    <img src="./media/image15.png" alt="image15">
+    <figcaption>UOI-code als sleutel tot gegevens over de gebouwde omgeving (bron Fibree)</figcaption>
+</figure>
 
 Fibree heeft ook een [filmpje](https://fibree.org/uoi-nl/) gemaakt die de
 beoogde werking van de UOI-code toelicht.
@@ -245,9 +246,10 @@ Al deze aspecten spelen een rol bij het kunnen bepalen waaraan je wanneer een
 UOI-code kan, wil toekennen omdat ze domein-gebonden invloed kunnen uitoefenen
 op het object waaraan de code wordt toegekend.
 
-| [./media/image16.png](./media/image16.png)    |
-|-----------------------------------------------|
-| Figuur 2. Manieren van kijken naar een object |
+<figure id="image16">
+    <img src="./media/image16.png" alt="image16">
+    <figcaption>Manieren van kijken naar een object</figcaption>
+</figure>
 
 **Strategieën om te verbinden**
 
@@ -310,9 +312,10 @@ verkregen. Deze linksets worden vastgelegd en voor een ieder ontsloten. Je bouwt
 hier als het ware organisch een gedeeld stelsel van geregistreerde verbindingen
 op.
 
-| [./media/image17.png](./media/image17.png)                                      |
-|---------------------------------------------------------------------------------|
-| Figuur 3: Strategieën om een identificator toe te wijzen om te kunnen verbinden |
+<figure id="image17">
+    <img src="./media/image17.png" alt="image17">
+    <figcaption>Strategieën om een identificator toe te wijzen om te kunnen verbinden</figcaption>
+</figure>
 
 In alle strategieën moeten we, aanvullend op de identificatie en semantische
 interpretatie, de overeenstemming over het ruimtelijk voorkomen in de gebouwde
@@ -331,7 +334,7 @@ na de consultatie proberen vast te stellen. Daar zullen ook aspecten zoals
 bijhouden, robuustheid, organisch kunnen groeien, zelforganisatie, regie e.d. in
 ogenschouw worden genomen.
 
-1.  Doel van een UOI-code stelsel
+### Doel van een UOI-code stelsel
 
 Het doel van een UOI-code-stelsel is het vereenvoudigen van het
 domein-overstijgend zoeken, vinden & semantisch interpreteren van gegevens over
@@ -355,9 +358,10 @@ het middel ondersteunt. Een doel dat aangewezen wordt door een onderliggend
 middel is zelf weer een middel voor het bovenliggend doel. Zo ontstaat een
 doelen-middelen-hiërarchie die ook wel een doelenboom wordt genoemd.
 
-| [./media/image18.png](./media/image18.png)     |
-|------------------------------------------------|
-| Figuur 4: Primaire doelenboom UOI-code stelsel |
+<figure id="image18">
+    <img src="./media/image18.png" alt="image18">
+    <figcaption>Primaire doelenboom UOI-code stelsel</figcaption>
+</figure>
 
 We lichten de afgebeelde doelenboom nader toe en beginnen daartoe rechtsonder.
 We kijken dus primair naar dat wat nodig is om te *identificeren*, *relateren*
@@ -440,7 +444,7 @@ eenieder te faciliteren is. Alvorens deze drie middelen nader te duiden geven we
 eerst in paragraaf 1.2 een definitie van de gebouwde omgeving waarop dit ontwerp
 van het UOI-code-stelsel zich richt.
 
-1.  Samenhang met SOR-traject
+### Samenhang met SOR-traject
 
 Hieronder wordt de gesignaleerde samenhang van het UOI-traject met het
 SOR-traject (Samenhangende Object Registratie in wording) getypeerd:
@@ -511,16 +515,17 @@ eigenschappen die over meerdere sectoren heen meervoudig worden gebruikt. Het is
 primair bedoeld als verbinder in het ‘uitklapmodel’. **Daarmee kan de SOR
 getypeerd worden als een kapstok-domein**.
 
-1.  Gebouwde omgeving
+###  Gebouwde omgeving
 
 Gegevens over objecten in de gebouwde omgeving worden door een groot aantal
 spelers uit verschillende domeinen gecreëerd, geregistreerd en geraadpleegd. We
 kijken daarom eerst naar de gehanteerde definitie van de gebouwde omgeving
 waarin bouwwerken van allerlei aard voorkomen.
 
-| [./media/image19.png](./media/image19.png) |
-|--------------------------------------------|
-| Figuur 5: Afbakening gebouwde omgeving     |
+<figure id="image19">
+    <img src="./media/image19.png" alt="image19">
+    <figcaption>Afbakening gebouwde omgeving</figcaption>
+</figure>
 
 Het UOI-code-stelsel betreft een representatie van de werkelijkheid met digitale
 informatieobjecten. De werkelijkheid bestaat uit ‘dingen’ zowel materieel als
@@ -605,7 +610,7 @@ product is geplaatst of geïnstalleerd. Dat kan moeilijk tijdens het ontwerp al
 bekend zijn en daarom lijkt het alleen mogelijk bij plaatsing/installatie deze
 relatie te leggen.
 
-1.  Unieke identificatie van objecten
+###  Unieke identificatie van objecten
 
 Identificatie van objecten kan langs meerdere wegen plaatsvinden. Bijvoorbeeld
 identificatie door gebruik te maken van de unieke eigenschappen van:
@@ -614,9 +619,10 @@ identificatie door gebruik te maken van de unieke eigenschappen van:
 
 2.  Identificerende code
 
-| [./media/image20.png](./media/image20.png)                           |
-|----------------------------------------------------------------------|
-| Figuur 6. Identificeren van objecten (bron PDOK en TOBA Architecten) |
+<figure id="image20">
+    <img src="./media/image20.png" alt="image20">
+    <figcaption>Identificeren van objecten (bron PDOK en TOBA Architecten)</figcaption>
+</figure>
 
 **Locatie als unieke sleutel**
 
@@ -674,7 +680,7 @@ unieke (globale en/of lokale) identificatie, objecten in de gebouwde omgeving
 kunnen worden gezocht en gevonden dan wel dat de creator direct de relaties
 aangeeft..*
 
-1.  Kennis van relaties
+### Kennis van relaties
 
 Wanneer je ook alle ruimtes of/en bijvoorbeeld functionele dan wel
 constructiedelen wilt kunnen onderkennen, dienen er naast het uniek kunnen
@@ -698,7 +704,7 @@ graag weten ook om die relaties op te kunnen zoeken. Deze relaties op
 instantieniveau tonen namelijk of mogelijke relaties in de werkelijkheid
 voorkomen.
 
-1.  Kennis van verwantschappen
+### Kennis van verwantschappen
 
 Het beantwoorden van domein-overstijgende vragen heeft, naast het uniek kunnen
 identificeren van objecten en het kennen van voorkomende relaties op
@@ -731,7 +737,7 @@ van de data.
 
 [^18]: Zie ook bijlage 4
 
-1.  Gehanteerde ontwerpprincipes
+### Gehanteerde ontwerpprincipes
 
 Bij het ontwerp van het UOI-code-stelsel hebben we de hier genoemde
 uitgangspunten gehanteerd:
@@ -798,7 +804,7 @@ uitgangspunten gehanteerd:
     weinig impact op bestaande registraties)(centraal of federatief
     georganiseerd)
 
-    1.  Vijf oplossingsrichtingen onderkend
+### Vijf oplossingsrichtingen onderkend
 
 Domein-overstijgend kunnen zoeken, vinden en interpreteren wordt dus ondersteund
 met drie principes. Unieke identificatie, kennis van relaties op instantieniveau

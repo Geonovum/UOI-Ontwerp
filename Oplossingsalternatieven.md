@@ -4,7 +4,7 @@ In dit hoofdstuk worden vijf oplossingsvarianten nader uitgewerkt. Het betreft
 een uitwerking op hoofdlijnen ter afdekking van het spectrum van
 oplossingsrichtingen.
 
-1.  Vijf onderkende alternatieven
+###  Vijf onderkende alternatieven
 
 Tijdens het onderzoek zijn vijf alternatieven onderkend voor het realiseren van
 een UOI-code-stelsel. In dit hoofdstuk zullen we die vijf alternatieven
@@ -16,9 +16,10 @@ interpreteren bevatten. We hebben daarnaast een vijfde alternatief onderkend dat
 gebruik maakt van bestaande lokale identificatoren en dus voorbij gaat aan het
 gaan gebruiken van een UOI-code-stelsel. Dat is een soort nul-alternatief.
 
-| [./media/image29.png](./media/image29.png)                   |
-|--------------------------------------------------------------|
-| Figuur 15: Onderkende alternatieven met een UOI-code-stelsel |
+<figure id="image29">
+    <img src="./media/image29.png" alt="image29">
+    <figcaption>Onderkende alternatieven met een UOI-code-stelsel</figcaption>
+</figure>
 
 Hierna worden deze alternatieven nader getypeerd en beschreven. In het denken
 over deze alternatieven zijn mogelijke aspecten voor het kiezen van groeipaden
@@ -27,7 +28,7 @@ meer en diepere verbindingen en de mate van regie die nodig is op het realiseren
 van deze alternatieven. Deze worden later bij de SWOT-analyse (na de
 consultatie) in ogenschouw genomen.
 
-1.  UOI-code-stelsel (sober)
+###  UOI-code-stelsel (sober)
 
 In deze paragraaf wordt een beschrijving gegeven van een UOI-code-stelsel dat
 wordt opgebouwd uit een bouwsteen voor UOI-codes en UOI-informatieobjecten. Het
@@ -63,8 +64,12 @@ het UOI-code-stelsel worden ingezet/ontwikkeld:
 
 | **Registratie van**                                          | **Regime voor**                                |
 |--------------------------------------------------------------|------------------------------------------------|
-| UOI-codes \<UOI-code-register\> voor UOI-informatie-objecten | Uitgifte van UOI-codes / UOI-informatie-object |
-| [./media/image30.PNG](./media/image30.PNG)                   |                                                |
+| UOI-codes &LT;UOI-code-register&GT; voor UOI-informatie-objecten | Uitgifte van UOI-codes / UOI-informatie-object |
+
+<figure id="image30">
+    <img src="./media/image30.PNG" alt="image23">
+    <figcaption>UOI-codes &LT;UOI-code-register&GT; voor UOI-informatie-objecten</figcaption>
+</figure>
 
 **Hoe werkt het dan?**
 
@@ -93,9 +98,10 @@ over de aanvrager, de uitgifte zelf & het soort object (domein-entiteit) waar de
 UOI-code voor is uitgegeven. Dat is in de onderstaande figuur illustratief
 weergegeven.
 
-| [./media/image31.png](./media/image31.png) |
-|--------------------------------------------|
-| Figuur 16: UOI-code uitgifte               |
+<figure id="image31">
+    <img src="./media/image31.png" alt="image31">
+    <figcaption>UOI-code uitgifte</figcaption>
+</figure>           |
 
 Er zijn meerdere variaties op het hierboven getoonde logische proces denkbaar.
 
@@ -127,7 +133,7 @@ het zelfde thema zoekt & vindt. Blijkbaar de in de ISBN-registratie of verbonden
 registraties ook relaties op titel of thema gevonden. Niet bij ISBN
 geregistreerde boeken worden niet gevonden.*
 
-1.  UOI-code stelsel met geregistreerde relaties
+###  UOI-code stelsel met geregistreerde relaties
 
 In deze paragraaf wordt een beschrijving gegeven van een UOI-code stelsel dat
 wordt opgebouwd uit een bouwsteen voor UOI-codes en UOI-relaties; Het betreft
@@ -163,10 +169,15 @@ In deze variant zijn de volgende componenten gebruikt.
 | **Registratie van**                                          | **Regime voor**                                                           |
 |--------------------------------------------------------------|---------------------------------------------------------------------------|
 | UOI-codes \<UOI-code-register\> voor UOI-informatie-objecten | Uitgifte van UOI-codes / UOI-informatie-object                            |
-| [./media/image32.PNG](./media/image32.PNG)                   |                                                                           |
+|                                                              |                                                                           |
 | UOI-object-relaties                                          | Geen regime. Relaties komen voort uit aanvragen voor opnemen van relaties |
 | Er ontstaat een model van UOI-object-verwantschappen op M1   |                                                                           |
 | Er ontstaan UOI-ontologieën (info-modellen domeinen)         |                                                                           |
+
+<figure id="image32">
+    <img src="./media/image32.PNG" alt="image32">
+    <figcaption>UOI-codes &LT;UOI-code-register&GT; voor UOI-informatie-objecten</figcaption>
+</figure>
 
 We geven een korte toelichting:
 
@@ -217,9 +228,10 @@ alle UOI-codes van informatieobjecten uit andere registraties die ook informatie
 over deze brug hebben. Via bevraging van die registraties op die UOI-codes krijg
 je de gekoppelde informatie.
 
-| [./media/image33.png](./media/image33.png)                                  |
-|-----------------------------------------------------------------------------|
-| Figuur 17. Proces van analyseren en vastleggen relaties tussen UOI-objecten |
+<figure id="image33">
+    <img src="./media/image33.png" alt="image33">
+    <figcaption>Proces van analyseren en vastleggen relaties tussen UOI-objecten</figcaption>
+</figure>
 
 Het bevragingssysteem kan uitgebreid worden met een (API) koppeling naar de
 aangesloten registraties zodat resultaat automatisch wordt terug geleverd Bij de
@@ -313,7 +325,7 @@ Deze variant heeft de volgende karakteristieken:
 -   een verwantschap-laag ontstaat vanzelf door het semantisch registreren van
     relaties.
 
-    1.  UOI-code stelsel met geregistreerde verwantschappen
+    ###  UOI-code stelsel met geregistreerde verwantschappen
 
 In deze paragraaf wordt een beschrijving gegeven van een UOI-code-stelsel dat
 wordt opgebouwd uit een bouwsteen voor UOI-codes en UOI-verwantschappen. Het
@@ -354,10 +366,16 @@ ingezet/ontwikkeld:
 | Registratie van                                              | Regime voor                                    |
 |--------------------------------------------------------------|------------------------------------------------|
 | UOI-codes \<UOI-code register\> voor UOI-informatie-objecten | Uitgifte van UOI-codes / UOI-informatie-object |
-| [./media/image34.PNG](./media/image34.PNG)                   |                                                |
+|                                                              |                                                |
 | UOI-object-verwantschappen                                   |                                                |
 | Domein informatie-modellen                                   | Registratie van UOI-object-verwantschappen     |
 | UOI-ontologieën (info-modellen domeinen)                     |                                                |
+
+<figure id="image34">
+    <img src="./media/image34.PNG" alt="image34">
+    <figcaption>UOI-codes &LT;UOI-code register&GT; voor UOI-informatie-objecten</figcaption>
+</figure>
+
 
 **Hoe werkt het dan?**
 
@@ -382,9 +400,10 @@ van entiteiten in domeinen op knooppunt niveau. (semantisch interpreteren)
 
 Het proces van analyseren van deze verwantschap is hieronder gevisualiseerd.
 
-| [./media/image35.png](./media/image35.png)            |
-|-------------------------------------------------------|
-| Figuur 18. Proces van realisatie van een verwantschap |
+<figure id="image35">
+    <img src="./media/image35.png" alt="image35">
+    <figcaption>Proces van realisatie van een verwantschap</figcaption>
+</figure>
 
 **Wat moet je als gebruiker zelf blijven doen?**
 
@@ -399,7 +418,7 @@ Dit alternatief kan gezien worden als een sleutel en wegwijzer voor het
 beantwoorden van domein-overstijgende vragen. We karakteriseren dit als een
 eerste groeistap voor een UOI-code-stelsel.
 
-1.  Formeel UOI-code stelsel
+###  Formeel UOI-code stelsel
 
 In deze paragraaf wordt een beschrijving gegeven van een Formeel UOI-code
 stelsel. Het betreft een uitwerking op hoofdlijnen ter afdekking van het
@@ -437,11 +456,16 @@ uit het UOI-code-stelsel worden ingezet/ontwikkeld:
 | Registratie van                                              | Regime voor                                    |
 |--------------------------------------------------------------|------------------------------------------------|
 | UOI-codes \<UOI-code register\> voor UOI-informatie-objecten | Uitgifte van UOI-codes / UOI-informatie-object |
-| [./media/image36.PNG](./media/image36.PNG)                   |                                                |
+|                                                              |                                                |
 | UOI-object-relaties                                          | Registratie van UOI-object-relaties            |
 | UOI-object-verwantschappen                                   | Registratie van UOI-object-verwantschappen     |
 | Domein informatie-modellen                                   |                                                |
 | UOI-ontologieën (info-modellen domeinen)                     |                                                |
+
+<figure id="image36">
+    <img src="./media/image36.PNG" alt="image36">
+    <figcaption>UOI-codes \<UOI-code register\> voor UOI-informatie-objecten</figcaption>
+</figure>
 
 **Hoe werkt het dan?**
 
@@ -496,7 +520,7 @@ Dit alternatief kan gezien worden als een sleutel, wegwijzer en wegenstructuur
 voor het beantwoorden van domein-overstijgende vragen. We karakteriseren dit als
 een mogelijke tweede groeistap voor een UOI-code-stelsel.
 
-1.  Geen UOI-code-stelsel
+###  Geen UOI-code-stelsel
 
 In deze paragraaf wordt een beschrijving gegeven van de situatie waarin er geen
 UOI-code-stelsel ontstaat. Dit is namelijk een verbonden ID-code-stelsel dat
@@ -510,7 +534,11 @@ andere mechanismes worden de drie principes *identificeren*, *relateren* en
 | Registratie van                            | Regime voor |
 |--------------------------------------------|-------------|
 | Geen registratie                           | Geen regime |
-| [./media/image37.PNG](./media/image37.PNG) |             |
+
+<figure id="image37">
+    <img src="./media/image37.png" alt="image37">
+    <figcaption>Geen registratie </figcaption>
+</figure>
 
 Er worden twee varianten binnen dit nul-alternatief onderscheiden:
 

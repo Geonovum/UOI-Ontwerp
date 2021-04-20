@@ -17,18 +17,18 @@ De gehanteerde casus beschrijvingen zijn:
 
 4.  Energienetwerkaansluitingen (i.s.m. Kadaster c.s.).
 
-    1.  Bouwwerk Renovatie Paspoort
+###  Bouwwerk Renovatie Paspoort
 
 Later opnemen
 
-1.  Opleverdossier DBG
+###  Opleverdossier DBG
 
 Later opnemen
 
-1.  Materiaal certificaten
+###  Materiaal certificaten
 
 Later opnemen
 
-1.  Energienetwerkaansluitingen
+###  Energienetwerkaansluitingen
 
 Later opnemen

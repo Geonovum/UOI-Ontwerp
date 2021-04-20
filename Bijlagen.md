@@ -61,18 +61,18 @@ Onderstaand vindt u de lijst van geraadpleegde bronnen aan.
 
 | **Naam**                        | **Organisatie \<aspect\>**                      |
 |---------------------------------|-------------------------------------------------|
-| Paul Janssen                    | Geonovum \<NEN 3610\>                           |
-| Dik Spekkink                    | BIMloket \<BIM\>                                |
-| Niels Hoffmann                  | Provincie Noord-Holland \<geo-wereld\>          |
-| Linda van den Brink             | Geonovum \<Linked data / SOR\>                  |
-| Gert-Jan Aaftink                | Rijkswaterstaat \<infrawereld\>                 |
-| Martin Kreijenbroek             | 2BA \<installatiewereld toelevering\>           |
-| Rien Wabeke                     | Ketenstandaard Bouw & techniek\<DSGO/UOI\>      |
-| Erik van ’t Hoff / Hans Elzinga | Rijks Vastgoedbedrijf RVB \<vastgoed overheid\> |
-| Peter Groeneveld                | Gemeente Rotterdam \<Geo/BIM-wereld\>           |
-| Rik Opgenoort                   | CROW \<Geo/BIM-wereld , IMBOR\>                 |
+| Paul Janssen                    | Geonovum &LT;NEN 3610&GT;                       |
+| Dik Spekkink                    | BIMloket &LT;BIM\>                                |
+| Niels Hoffmann                  | Provincie Noord-Holland &LT;geo-wereld&GT;          |
+| Linda van den Brink             | Geonovum &LT;Linked data / SOR&GT;                  |
+| Gert-Jan Aaftink                | Rijkswaterstaat &LT;infrawereld&GT;                 |
+| Martin Kreijenbroek             | 2BA \<installatiewereld toelevering &GT;           |
+| Rien Wabeke                     | Ketenstandaard Bouw & techniek &LT;DSGO/UOI\>      |
+| Erik van ’t Hoff / Hans Elzinga | Rijks Vastgoedbedrijf RVB &LT;vastgoed overheid\> |
+| Peter Groeneveld                | Gemeente Rotterdam &LT;Geo/BIM-wereld\>           |
+| Rik Opgenoort                   | CROW &LT;Geo/BIM-wereld , IMBOR\>                 |
 | Pieter Dijkstra                 | Kadaster \<BAG\>                                |
-| Berend Koudstaal                | ISSO \<\>                                       |
+| Berend Koudstaal                | ISSO &LT;&GT;                                       |
 
 ### Toelichting op Filiatie
 
@@ -119,7 +119,7 @@ De UOI-code moet aan de onderstaande eisen voldoen:
     identificerende kenmerken rechtstreeks via de UOI-code gevonden kunnen
     worden
 
-Zie voor de meest actuele versie <https://docs.geostandaarden.nl/disgeo/emso/>
+Zie voor de meest actuele versie [https://docs.geostandaarden.nl/disgeo/emso](https://docs.geostandaarden.nl/disgeo/emso/)
 
 Identificatie van objecten
 
@@ -635,8 +635,3 @@ OWL](https://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.1))
 | intersectionOf            |
 | minCardinality            |
 | maxCardinality            |
-|                           |
-|                           |
-|                           |
-|                           |
-|                           |

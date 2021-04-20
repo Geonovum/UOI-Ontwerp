@@ -67,42 +67,47 @@ var respecConfig =
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
- [
+  [
     {
       name:       "Jan van Gelder",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
-   // {
-   //   name:       "Naam Editor-n",
-   //   company:    "Geonovum",
-   //   companyURL: "https://www.geonovum.nl"
-  //  }, 
+    {
+      name:       "Derk Hup",
+      company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+    }, 
   ],
   //-- de namen van de Author(s) ------------------------------------------------------
   //-- vul in: per Author: name:, company:, companyURL: -------------------------------
   authors: 
   [
     {
-      name:       "Gerard Wolbers",
-      company:    "VNG Realisatie",
-      companyURL: "https://www.vngrealisatie.nl"
-    },
-    {
-      name:       "Jan van Gelder",
+      name:       "Eric van Capelleveen",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     },
     {
-      name:       "Bart-Jan de Leuw",
-      company:    "Ministerie van BZK",
-      companyURL: "https://www.geobasisregistraties.nl"
-    },
-    {
-      name:       "Marcel Reuvers",
+      name:       "Erwin Folmer ",
       company:    "Kadaster",
       companyURL: "https://www.kadaster.nl"
-    }, 
+    },
+    {
+      name:       "Paul Janssen",
+      company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+    },
+    {
+      name:       "Frank Kooij",
+      company:    "Kadaster",
+      companyURL: "https://www.kadaster.nl"
+    },
+    {
+      name:       "Wilko Quak",
+      company:    "geonovum",
+      companyURL: "https://www.geonovum.nl"
+    },
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
   shortName: "uoi",  	              // Wordt gebruikt in de document URL

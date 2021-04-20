@@ -7,7 +7,7 @@ hoofdlijnen. Doel van het UOI-code-stelsel is faciliteren van het
 domein-overstijgend kunnen zoeken, vinden en semantisch interpreteren van
 object-gegevens.
 
-1.  Object & haar verschijningsvormen
+###  Object & haar verschijningsvormen
 
 De werkelijkheid bestaat. En mensen zien er ‘dingen’ in, die al dan niet fysiek
 aanwezig zijn. Deze dingen noemen we ook wel objecten. Een object is dus een
@@ -121,7 +121,7 @@ wereld van de geo-registraties veel IM-GEO gebaseerde informatiemodellen.
 (DIS-GEO) zou ontstaan, kan deze ook via een UOI-object worden verbonden met
 andere domeinmodellen.*
 
-1.  Componenten van een UOI-code-stelsel
+###  Componenten van een UOI-code-stelsel
 
 Ons onderzoek heeft het karakter gehad van een iteratief ontwerpproces. Binnen
 het UOI-onderzoeksteam zijn zoals gezegd meerdere alternatieven voor een
@@ -168,7 +168,7 @@ twee zaken:
 Dit inzicht heeft ons als onderzoekers er toe aangezet ook het gebruik van de
 UOI-code in de praktijk op hoofdlijnen te onderzoeken en te beschrijven.
 
-1.  Werking op hoofdlijnen – UOI-code-stelsel
+### Werking op hoofdlijnen – UOI-code-stelsel
 
 We pakken de denklijn van de doelenboom weer op om de werking van een
 UOI-code-stelsel toe te lichten. We doen dat aan de hand van de drie principes
@@ -257,7 +257,7 @@ registratie van de relaties ontstaat immers niet van zelf. Ofwel worden de
 ruimtelijke ontwerpgegevens gebruikt om de koppeling aan ruimten/muren te
 realiseren dan wel de installateur verzorgt deze detaillering van relaties.
 
-1.  UOI-code en uitgifte regime
+### UOI-code en uitgifte regime
 
 *We beginnen met de UOI-code, de uitgifte & regime van uitgifte.*
 
@@ -391,7 +391,8 @@ Er is mogelijk een UOI-code-register nodig waarin de uitgegeven UOI-codes, met
 gegevens over de uitgifte en identificatie, duurzaam beschikbaar zijn en
 blijven. Dit is dus afhankelijk van de gekozen oplossing voor de UOI-code.
 
-1.  Relaties & regime UOI-objecten
+
+### Relaties & regime UOI-objecten
 
 We vervolgen met UOI-Object-relaties & het regime om deze relaties tussen
 UOI-objecten onderling vast te leggen dan wel achterhaald kunnen worden.
@@ -490,7 +491,7 @@ Een regime van registratie van UOI-relaties draagt zorg voor het vastleggen van
 de UOI-relaties bij het ontstaan of veranderen van een object of nieuw
 gerelateerd object. Dit dient op instantieniveau te gebeuren.
 
-1.  Verwantschappen & regime UOI-object
+### Verwantschappen & regime UOI-object
 
 We vervolgen met de wijze waarop UOI-object verwantschappen worden vastgelegd en
 welk regime daartoe wordt voorgesteld.
@@ -608,7 +609,7 @@ domeindeskundigheid en informatiekunde bij elkaar komen. Van belang is dat de
 domeinmodellen (ontologieën) en vocabulaires (begrippen) beschikbaar zijn. De
 OTL-ontologie (object type bibliotheek) valt ook hieronder.
 
-1.  Formaliseren van UOI-object verwantschappen & relaties
+### Formaliseren van UOI-object verwantschappen & relaties
 
 We beantwoorden achtereenvolgens de volgende vragen:
 
@@ -680,7 +681,7 @@ faciliteren van beantwoorden van domein-overstijgende vragen in de maatschappij
 door samenwerking in één infrastructuur naar verwachting sterk ingeperkt. Een
 mKBA zal hiertoe een onderbouwing moeten kunnen bieden.
 
-1.  Faciliteren leggen van UOI-object verwantschappen & relaties
+### Faciliteren leggen van UOI-object verwantschappen & relaties
 
 Deze paragraaf beschrijft het proces voor de realisatie van de
 verwantschap-laag. De volgende twee punten uit de doel-middel hiërarchie zijn
@@ -752,7 +753,7 @@ immers regie nodig) in beheer genomen moeten worden om te kunnen beantwoorden
 aan veranderende domeinmodellen en begrippen en ook nieuwe eisen voor
 verwantschapsrelaties.
 
-1.  Digitale toegang tot de UOI-object-registraties
+### Digitale toegang tot de UOI-object-registraties
 
 We beantwoorden achtereenvolgens de volgende vragen:
 
@@ -943,7 +944,7 @@ domeinenregistraties te kunnen realiseren is een soort UOI-API (services) &
 model-endpoint nodig die de verschillende zoek/vind transacties op instantie en
 modelniveau kan faciliteren.
 
-1.  Organisatorische borging werking UOI-code stelsel
+### Organisatorische borging werking UOI-code stelsel
 
 We beantwoorden achtereenvolgens op hoofdlijnen de volgende vragen:
 
