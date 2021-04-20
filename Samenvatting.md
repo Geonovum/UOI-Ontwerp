@@ -40,8 +40,7 @@ daarvan per domein kunnen verschillen).
 ### Vorm van een UOI-code
 
 Aanvankelijk leek de ontwerpopgave zich te concentreren op de vorm van de
-UOI-code. Binnen een [recente
-SOR-consultatie](https://www.geobasisregistraties.nl/documenten/publicatie/2021/03/11/reactiedocument-eerste-consultatie-conceptueel-model-sor)
+UOI-code. Binnen een [recente SOR-consultatie](https://www.geobasisregistraties.nl/documenten/publicatie/2021/03/11/reactiedocument-eerste-consultatie-conceptueel-model-sor)
 is vastgesteld dat deze vooral uniek, persistent en machine-leesbaar moet zijn.
 Daarmee kan de UOI-code bijvoorbeeld via een UUID[^1] of URI[^2]-strategie
 worden vormgegeven. Ook is een UOI-code op basis van bestaande domein-ID’s
@@ -247,8 +246,7 @@ entiteiten in de aangesloten domeinen UOI-codes behoeven te worden gegeven.
 **Kennisgraaf**
 
 Verwantschappen tussen entiteiten uit meerdere domeinen kunnen worden vastgelegd
-in een
-[kennisgraaf](https://en.wikipedia.org/wiki/Knowledge_graph#:~:text=A%20knowledge%20graph%20is%20a,%E2%80%93%20with%20free%2Dform%20semantics.)[^9].
+in een [kennisgraaf](https://en.wikipedia.org/wiki/Knowledge_graph#:~:text=A%20knowledge%20graph%20is%20a,%E2%80%93%20with%20free%2Dform%20semantics.)[^9].
 Verwantschapsoperatoren geven dan aan hoe instanties moeten worden behandeld,
 bijvoorbeeld bij een exacte verwantschap, maar ook bij indicatieve
 verwantschappen. Daarbij is het onvermijdelijk dat het gebruik van indicatieve

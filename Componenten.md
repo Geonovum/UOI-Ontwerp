@@ -110,9 +110,10 @@ het UOI-object. Let wel het is vooralsnog de bedoeling deze alleen toe te wijzen
 wanneer het gaat om entiteiten die relevant zijn voor de verbinding naar andere
 domeinen. We noemen dit de knooppunt-entiteiten.
 
-| [./media/image21.png](./media/image21.png)                        |
-|-------------------------------------------------------------------|
-| Figuur 7: Denklijn: Principe van een UOI-mechanisme als verbinder |
+<figure id="image21">
+    <img src="./media/image21.png" alt="image21">
+    <figcaption>Denklijn: Principe van een UOI-mechanisme als verbinder</figcaption>
+</figure>
 
 In de bouwwereld worden veel IFC-gebaseerde informatie-modellen gebruikt. In de
 wereld van de geo-registraties veel IM-GEO gebaseerde informatiemodellen.
@@ -154,9 +155,10 @@ organisatievorm en aantal aangesloten domeinen):
 -   Interface met UOI-code stelsel (API Application Program Interface / Endpoint
     enz.)
 
-| [./media/image22.png](./media/image22.png)               |
-|----------------------------------------------------------|
-| Figuur 8: Mogelijke componenten van het UOI-code stelsel |
+<figure id="image22">
+    <img src="./media/image22.png" alt="image22">
+    <figcaption>Mogelijke componenten van het UOI-code stelsel</figcaption>
+</figure>
 
 Het vinden van gegevens over objecten uit de gebouwde omgeving veronderstelt
 twee zaken:
@@ -306,9 +308,10 @@ tussenvorm daarbij is dat centraal reeksen worden gegenereerd, die daarna door
 partijen binnen de federatie stuk voor stuk aan één informatie-object worden
 uitgegeven.
 
-| [./media/image23.png](./media/image23.png)                |
-|-----------------------------------------------------------|
-| Figuur 9. Middelen UOI-code en UOI-code-uitgifte & regime |
+<figure id="image23">
+    <img src="./media/image23.png" alt="image23">
+    <figcaption>Middelen UOI-code en UOI-code-uitgifte & regime</figcaption>
+</figure>
 
 **Hoe ziet een UOI-code eruit?**
 
@@ -366,9 +369,12 @@ domeinen symbolisch met een gestippelde ellips gemarkeerd. De lijnen
 symboliseren de verwantschappen tussen de knooppunt-entiteiten. Let wel. Deze
 verwantschappen kunnen exact maar ook indicatief van aard zijn.
 
-| [./media/image24.png](./media/image24.png)                      |
-|-----------------------------------------------------------------|
-| Figuur 10. Logica van de knooppunt entiteiten & verwantschappen |
+
+<figure id="image24">
+    <img src="./media/image24.png" alt="image24">
+    <figcaption>Logica van de knooppunt entiteiten & verwantschappen</figcaption>
+</figure>
+
 
 Het model in bovenstaande is uitdrukkelijk indicatief en illustratief en niet
 gevalideerd of compleet gemaakt. In de casus-onderzoeken die parallel
@@ -472,9 +478,10 @@ van bovengenoemde haken en ogen. Er is daarom een regime nodig dat zorgt voor
 het leggen en bijhouden van relaties tussen objecten en zo de kwaliteit
 waarborgt.
 
-| [./media/image25.png](./media/image25.png)      |
-|-------------------------------------------------|
-| Figuur 11. Middelen UOI-code relaties en regime |
+<figure id="image25">
+    <img src="./media/image25.png" alt="image25">
+    <figcaption>Middelen UOI-code relaties en regime</figcaption>
+</figure>
 
 **Bouwsteen: Registratie UOI-object-relaties**
 
@@ -533,9 +540,10 @@ We beantwoorden achtereenvolgens de volgende vragen:
 
 -   Welke winst biedt gedeelde toegang tot verwantschappen?
 
-| [./media/image26.png](./media/image26.png)             |
-|--------------------------------------------------------|
-| Figuur 12. Middelen UOI-code verwantschappen en regime |
+<figure id="image26">
+    <img src="./media/image26.png" alt="image26">
+    <figcaption>Middelen UOI-code verwantschappen en regime</figcaption>
+</figure>
 
 *De Verwantschap-laag is een domein-onafhankelijke ontologie.*
 
@@ -643,9 +651,10 @@ Dit geeft voeding aan een idee om de UOI-objectrelaties en verwantschappen te
 formaliseren zodat er een zeer hoge garantie bestaat op het kunnen beantwoorden
 van domein-overstijgende vragen.
 
-| [./media/image27.png](./media/image27.png)            |
-|-------------------------------------------------------|
-| Figuur 13. Middelen UOI-code formeel UOI-code-stelsel |
+<figure id="image27">
+    <img src="./media/image27.png" alt="image27">
+    <figcaption>Middelen UOI-code formeel UOI-code-stelsel</figcaption>
+</figure>
 
 **Hoe werken de drie middelen/principes onderling samen?**
 
@@ -933,9 +942,10 @@ model of naar de registratie. Ook kan je naar SPARQL toe om in de URIs te
 doorzoeken c.q. te bevragen (‘query-en’), en ook kun je met de knop formats aan
 ‘*content negotiation*’ doen.
 
-| [./media/image28.png](./media/image28.png)                                                    |
-|-----------------------------------------------------------------------------------------------|
-| Figuur 14. Voorbeeld RWS-pedia \<*illustratief in kader van ontwerpactiviteiten ontwikkeld*\> |
+<figure id="image28">
+    <img src="./media/image28.png" alt="image28">
+    <figcaption>Voorbeeld RWS-pedia &LT;*illustratief in kader van ontwerpactiviteiten ontwikkeld*&GT;</figcaption>
+</figure>
 
 **Bouwsteen: Interface met UOI-stelsel**
 
