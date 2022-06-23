@@ -59,19 +59,19 @@ Onderstaand vindt u de lijst van geraadpleegde bronnen aan.
 
 ### Reflecterend expertteam t.b.v. stap 2 en 3 van het 2e onderzoek
 
-| **Naam**                        | **Organisatie \<aspect\>**                      |
+| **Naam**                        | **Organisatie &LT;aspect&GT;**                      |
 |---------------------------------|-------------------------------------------------|
 | Paul Janssen                    | Geonovum &LT;NEN 3610&GT;                       |
-| Dik Spekkink                    | BIMloket &LT;BIM\>                                |
+| Dik Spekkink                    | BIMloket &LT;BIM&GT;                                |
 | Niels Hoffmann                  | Provincie Noord-Holland &LT;geo-wereld&GT;          |
 | Linda van den Brink             | Geonovum &LT;Linked data / SOR&GT;                  |
 | Gert-Jan Aaftink                | Rijkswaterstaat &LT;infrawereld&GT;                 |
-| Martin Kreijenbroek             | 2BA \<installatiewereld toelevering &GT;           |
-| Rien Wabeke                     | Ketenstandaard Bouw & techniek &LT;DSGO/UOI\>      |
-| Erik van ’t Hoff / Hans Elzinga | Rijks Vastgoedbedrijf RVB &LT;vastgoed overheid\> |
-| Peter Groeneveld                | Gemeente Rotterdam &LT;Geo/BIM-wereld\>           |
-| Rik Opgenoort                   | CROW &LT;Geo/BIM-wereld , IMBOR\>                 |
-| Pieter Dijkstra                 | Kadaster \<BAG\>                                |
+| Martin Kreijenbroek             | 2BA &LT;installatiewereld toelevering &GT;           |
+| Rien Wabeke                     | Ketenstandaard Bouw & techniek &LT;DSGO/UOI&GT;      |
+| Erik van ’t Hoff / Hans Elzinga | Rijks Vastgoedbedrijf RVB &LT;vastgoed overheid&GT; |
+| Peter Groeneveld                | Gemeente Rotterdam &LT;Geo/BIM-wereld&GT;           |
+| Rik Opgenoort                   | CROW &LT;Geo/BIM-wereld , IMBOR&GT;                 |
+| Pieter Dijkstra                 | Kadaster &LT;BAG&GT;                                |
 | Berend Koudstaal                | ISSO &LT;&GT;                                       |
 
 ### Toelichting op Filiatie
@@ -91,11 +91,28 @@ kennen wordt thans het domein-specifieke mechanisme van filiatie gebruikt. In
 onderstaand voorbeeld zouden zowel de 3D-vorm (geometrie) als de functionele
 opbouw in het bouwwerk hier veranderen.
 
-| [./media/image39.png](./media/image39.png)                                                    | De uitgangssituatie: De tweede verdieping huisvest twee verblijfsobjecten naast elkaar.                                                                                                                                                                                                                                                                                                                                  |
-|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [./media/image40.png](./media/image40.png)                                                    | De verblijfsobjecten op de tweede verdieping worden later samengevoegd tot een groot nieuw verblijfsobject.                                                                                                                                                                                                                                                                                                              |
-| [./media/image41.png](./media/image41.png)                                                    | De eindsituatie: Het grote verblijfsobject wordt weer gesplitst in twee verblijfsobjecten, maar de scheidingsmuur tussen beide komt op een iets andere plek. In dit voorbeeld blijkt waarschijnlijk uit de gebruiksoppervlakte dat de twee oorspronkelijke verblijfsobjecten anders waren, maar als er bij de scheidingsmuur bijvoorbeeld sprake was geweest van een schuin dak, dan telt die oppervlakte soms niet mee. |
-| Figuur 19. (bron) (<https://www.agathier.nl/project/appartementencomplex-in-klassieke-stijl>) |                                                                                                                                                                                                                                                                                                                                                                                                                          |
+<figure id="image39">
+    <img src="./media/image39.png" alt="image39">
+    <figcaption>twee verblijfsobjecten naast elkaar</figcaption>
+</figure>
+
+De uitgangssituatie: De tweede verdieping huisvest twee verblijfsobjecten naast elkaar.
+
+<figure id="image40">
+    <img src="./media/image40.png" alt="image40">
+    <figcaption>later samengevoegd tot een groot nieuw verblijfsobject</figcaption>
+</figure>
+
+De verblijfsobjecten op de tweede verdieping worden later samengevoegd tot een groot nieuw verblijfsobject.
+
+
+<figure id="image41">
+    <img src="./media/image41.png" alt="image41">
+    <figcaption>gesplitst in twee verblijfsobjecten</figcaption>
+</figure>
+
+De eindsituatie: Het grote verblijfsobject wordt weer gesplitst in twee verblijfsobjecten, maar de scheidingsmuur tussen beide komt op een iets andere plek. In dit voorbeeld blijkt waarschijnlijk uit de gebruiksoppervlakte dat de twee oorspronkelijke verblijfsobjecten anders waren, maar als er bij de scheidingsmuur bijvoorbeeld sprake was geweest van een schuin dak, dan telt die oppervlakte soms niet mee.  
+(bron) (https://www.agathier.nl/project/appartementencomplex-in-klassieke-stijl)
 
 ### SOR Functionele eisen waaraan een UOI-code moet voldoen
 
@@ -162,9 +179,7 @@ Ontwerpprincipe:
 Voor alle objecten in de SOR wordt dezelfde opbouw en toekenning van een
 objectidentificatie toegepast. De opbouw van de identificatiecode wordt op dit
 moment onderzocht in het externe project Regie Op Bouwgegevens (Unique Object
-Identifier, UOI). In fase 1 van dit project is een 0.8-versie van de UOI
-beschreven
-( <https://www.geobasisregistraties.nl/documenten/rapport/2020/12/01/rapport-regie-op-bouwgegevens-uoi-2020-onderzoeksfase> ).
+Identifier, UOI). In fase 1 van dit project is een [0.8-versie van de UOI](https://www.geobasisregistraties.nl/documenten/rapport/2020/12/01/rapport-regie-op-bouwgegevens-uoi-2020-onderzoeksfase) beschreven.
 In de start van fase 2 zal een UOI-versie 1.0 opgesteld worden die als basis kan
 dienen voor de identificatie van de objecten in de samenhangende
 objectenregistratie. Daarnaast wordt onderzocht, en beproefd in een aantal use
@@ -366,9 +381,10 @@ belangrijk dat de regels voor het toekennen en omgaan (zoals persistentie) goed
 worden nageleefd, en dat tevens zaken zoals een raadpleegservice voor URI’s zijn
 ingeregeld.
 
-| [./media/image42.png](./media/image42.png) |
-|--------------------------------------------|
-| Figuur 20: 5 sterren model                 |
+<figure id="image42">
+    <img src="./media/image42.png" alt="image42">
+    <figcaption>5 sterren model</figcaption>
+</figure>
 
 Alle entiteiten in een dataset hebben URI’s, zowel op instantie als op model
 niveau; het linken in een Knowledge Graph kan dan ook op verschillende niveaus.
@@ -411,24 +427,19 @@ Dit is eenvoudig te doen door middel van een
 resultaat op te slaan in ‘triples’ (data). Er kunnen wel kwaliteitsissues van
 toepassing zijn als locaties/ruimtelijke volumes net niet overeenkomen. 
 
-De
-[kennisgraaf](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/)
+De [kennisgraaf](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/)
 (model + instanties) is op zichzelf ook weer vergelijkbaar met een datasets, en
 kan ontsloten worden op de bekende manieren die ook voor datasets geleden. Maar
 daarnaast zijn er aanvullende mogelijkheden zoals redenering over data,
 inclusief het afleiden van nieuwe feiten die niet rechtstreeks in de data staan.
-
-<https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/>
+https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/
 
 ### Toelichting op het mechanisme bounding box
 
-[Axis-Aligned Minimum Bounding
-Box](../../../../../IX_opdrachten%20ix/1028%20Geonovum%20UOI/3%20Ontwerp%20UOI/(https:/en.wikipedia.org/wiki/Minimum_bounding_box#Axis-aligned_minimum_bounding_box))
+[Axis-Aligned Minimum BoundingBox](../../../../../IX_opdrachten%20ix/1028%20Geonovum%20UOI/3%20Ontwerp%20UOI/(https:/en.wikipedia.org/wiki/Minimum_bounding_box#Axis-aligned_minimum_bounding_box))
 
 Axis-Aligned Minimum Bounding Boxes\_ geven een indicatie van de locatie en de
-vorm van objecten. Ze worden bijvoorbeeld gebruikt in [Spatial R-tree
-Indexing](https://en.wikipedia.org/wiki/R-tree) en in [Computational
-Geometry](https://en.wikipedia.org/wiki/Computational_geometry#:~:text=Computational%20geometry%20is%20a%20branch,stated%20in%20terms%20of%20geometry.&text=Combinatorial%20computational%20geometry%2C%20also%20called,geometric%20objects%20as%20discrete%20entities.)
+vorm van objecten. Ze worden bijvoorbeeld gebruikt in [Spatial R-treeIndexing](https://en.wikipedia.org/wiki/R-tree) en in [ComputationalGeometry](https://en.wikipedia.org/wiki/Computational_geometry#:~:text=Computational%20geometry%20is%20a%20branch,stated%20in%20terms%20of%20geometry.&text=Combinatorial%20computational%20geometry%2C%20also%20called,geometric%20objects%20as%20discrete%20entities.)
 om snel potentiële relaties tussen objecten te vinden. Een eerste toets is dan
 de doorsnijding van de Minimum Bounding Boxes. Hiervoor hoeven alleen een
 handvol coördinaten te worden vergeleken, wat veel minder rekentijd kost dan het
@@ -459,23 +470,20 @@ Dit is de kleinste balk met zijden evenwijdig (_axis-aligned_) aan de
 meridianen, parallellen en het aardoppervlak waar de geometrie van het object
 precies in past.
 
-De Minimum Bounding Box van twee gebouwen
+<figure id="image43">
+    <img src="./media/image43.jpg" alt="image43">
+    <figcaption>De Minimum Bounding Box van twee gebouwen</figcaption>
+</figure>
 
-| [./media/image43.jpg](./media/image43.jpg) |
-|--------------------------------------------|
+<figure id="image44">
+    <img src="./media/image44.jpg" alt="image44">
+    <figcaption>Detail aanzicht</figcaption>
+</figure>
 
-
-Detailaanzicht
-
-| [./media/image44.jpg](./media/image44.jpg) |
-|--------------------------------------------|
-
-
-Zij-aanzicht
-
-| [./media/image45.jpg](./media/image45.jpg) |
-|--------------------------------------------|
-
+<figure id="image45">
+    <img src="./media/image45.jpg" alt="image45">
+    <figcaption>Zij- aanzicht</figcaption>
+</figure>
 
 Als de Minimum Bounding Boxes van twee objecten elkaar raken of doorsnijden, kan
 dat ook gelden voor de objecten zelf, maar dit hoeft niet. De Minimum Bounding
@@ -483,9 +491,10 @@ Box van een object is namelijk vaak groter dan het object zelf. Andersom geldt
 altijd dat wanneer Minimum Bounding Boxes elkaar niet raken, de betreffende
 objecten dat ook niet doen.
 
-| [./media/image46.gif](./media/image46.gif) |
-|--------------------------------------------|
-
+<figure id="image46">
+    <img src="./media/image46.gif" alt="image46">
+    <figcaption>Minimum Bounding Boxes van twee objecten raken of doorsnijden elkaar</figcaption>
+</figure>
 
 De Minimum Bounding Box van een stoel heeft een veel groter volume dan de
 geometrie van die stoel.
@@ -505,17 +514,18 @@ aardoppervlak, waardoor het vergelijken van Optimal Bounding Boxen ingewikkelder
 is. De winst van minder vaak een tweede toets hoeven doen, weegt daardoor
 misschien niet op tegen het verlies van extra rekentijd in de eerste toets.
 
-Optimal Bounding Box
-
-| [./media/image47.png](./media/image47.png) |
-|--------------------------------------------|
+<figure id="image47">
+    <img src="./media/image47.png" alt="image47">
+    <figcaption>Optimal Bounding Box</figcaption>
+</figure>
 
 
 ### Samenhang NEN 3610 NEN 2660 en NTA 8035
 
-| [./media/image48.png](./media/image48.png)          |
-|-----------------------------------------------------|
-| Figuur 21: Samenhang NEN 3610, NEN 2660 en NTA 8035 |
+<figure id="image48">
+    <img src="./media/image48.png" alt="image48">
+    <figcaption>Samenhang NEN 3610, NEN 2660 en NTA 8035</figcaption>
+</figure>
 
 ### Overzicht semantische operatoren
 

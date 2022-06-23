@@ -101,7 +101,7 @@ weergegeven.
 <figure id="image31">
     <img src="./media/image31.png" alt="image31">
     <figcaption>UOI-code uitgifte</figcaption>
-</figure>           |
+</figure>
 
 Er zijn meerdere variaties op het hierboven getoonde logische proces denkbaar.
 
@@ -139,8 +139,6 @@ In deze paragraaf wordt een beschrijving gegeven van een UOI-code stelsel dat
 wordt opgebouwd uit een bouwsteen voor UOI-codes en UOI-relaties; Het betreft
 een uitwerking op hoofdlijnen ter afdekking van het spectrum van
 oplossingsrichtingen.
-
-.
 
 We beantwoorden de volgende vragen:
 
@@ -325,7 +323,7 @@ Deze variant heeft de volgende karakteristieken:
 -   een verwantschap-laag ontstaat vanzelf door het semantisch registreren van
     relaties.
 
-    ###  UOI-code stelsel met geregistreerde verwantschappen
+###  UOI-code stelsel met geregistreerde verwantschappen
 
 In deze paragraaf wordt een beschrijving gegeven van een UOI-code-stelsel dat
 wordt opgebouwd uit een bouwsteen voor UOI-codes en UOI-verwantschappen. Het
@@ -375,7 +373,6 @@ ingezet/ontwikkeld:
     <img src="./media/image34.PNG" alt="image34">
     <figcaption>UOI-codes &LT;UOI-code register&GT; voor UOI-informatie-objecten</figcaption>
 </figure>
-
 
 **Hoe werkt het dan?**
 

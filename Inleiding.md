@@ -365,7 +365,7 @@ doelen-middelen-hiërarchie die ook wel een doelenboom wordt genoemd.
 
 We lichten de afgebeelde doelenboom nader toe en beginnen daartoe rechtsonder.
 We kijken dus primair naar dat wat nodig is om te *identificeren*, *relateren*
-en *semantisch interpreteren*. \< Semantisch redeneren?\>
+en *semantisch interpreteren*. &LT; Semantisch redeneren?&GT;
 
 **Uniek domein-overstijgend identificeren**
 
@@ -429,13 +429,13 @@ Om domein-overstijgend gegevens over informatie-objecten te kunnen zoeken,
 vinden en te kunnen interpreteren moeten er drie principes (middelen) worden
 afgedekt:
 
-1.  Unieke identificatie van informatie-objecten \<identificeren\>
+1.  Unieke identificatie van informatie-objecten &LT;identificeren&GT;
 
 2.  Kennis van relaties tussen informatie-objecten op instantieniveau
-    \<relateren\>
+    &LT;relateren&GT;
 
 3.  Kennis van verwantschappen tussen informatie-objecten op modelniveau
-    \<semantisch interpreteren\>
+    &LT;semantisch interpreteren&GT;
 
 Met deze drie middelen zijn verschillende combinaties van middelen te maken
 waarmee het domein-overstijgend kunnen zoeken, vinden en semantisch
@@ -534,7 +534,7 @@ immaterieel zijn fysiek en virtueel. Een ‘ding’ wordt benoemd met een ‘beg
 een term en een definitie, zodat we er over kunnen praten en er een gelijke
 ‘mentale gedachte’ bij hebben. Een ander woord voor begrip is concept.
 
-Als \<voorlopige\> reikwijdte voor het ontwerp van het UOI-code-stelsel is de
+Als &LT;voorlopige&GT; reikwijdte voor het ontwerp van het UOI-code-stelsel is de
 volgende definitie voor de objecten aangehouden. (Voor begrippen fysieke en
 virtuele objecten zie ook paragraaf 2.2)(daar worden synoniemen uit NEN2660,
 NEN3610 en NTA8035 toegelicht)(zie ook bijlage 6)
@@ -543,22 +543,22 @@ Informatie-objecten over:
 
 -   Alle fysieke objecten die als onroerende zaken worden aangeduid[^17]
 
-    [^17]: (duurzaam met de aarde verbonden)
+[^17]: Pseudoniemen (duurzaam met de aarde verbonden)
 
-    -   Gebouwd \< gebouwen, bouwwerken, kunstwerken \> …
+    -   Gebouwd &LT; gebouwen, bouwwerken, kunstwerken &GT; …
 
-    -   Geplaatst \< objecten in de openbare ruimte, bouwproducten in een
-        bouwobject \> …
+    -   Geplaatst &LT; objecten in de openbare ruimte, bouwproducten in een
+        bouwobject &GT; …
 
-    -   Geïnstalleerd \< installaties, installatieproducten in een bouwobject \>
+    -   Geïnstalleerd &LT; installaties, installatieproducten in een bouwobject &GT;
         …
 
-    -   Gelegd \< kabels & leidingen, fysieke netwerken \> …
+    -   Gelegd &LT; kabels & leidingen, fysieke netwerken &GT; …
 
-    -   Aangelegd \< water- spoor- weginfrastructuur, \> \< terreinen in de
-        openbare ruimte \> …
+    -   Aangelegd &LT; water- spoor- weginfrastructuur, &GT; &LT; terreinen in de
+        openbare ruimte &GT; …
 
-    -   Aanwezig in de \<ondergrond\> \<grondlichamen\>\<waterlichamen\> & op de
+    -   Aanwezig in de &LT;ondergrond&GT; &LT;grondlichamen&GT;&LT;waterlichamen&GT; & op de
         bovengrond …
 
     -   Niet gebouwde fysieke objecten die wel van belang zijn voor de gebouwde
@@ -569,7 +569,7 @@ Informatie-objecten over:
 
 -   Alle virtuele objecten die vanuit wet- en regelgeving en/of relevant
     maatschappelijk verkeer gerelateerd zijn aan de fysieke objecten (onroerende
-    zaken) \<status gebaseerd\> zoals:
+    zaken) &LT;status gebaseerd&GT; zoals:
 
     -   Gebruik
 
@@ -594,8 +594,8 @@ Informatie-objecten over:
 Niet meegenomen worden in de reikwijdte t.b.v. de UOI-code alle objecten die
 onderwerpen betreffen zoals:
 
--   Gebeurtenis gebaseerde zaken (Transacties) \< Zoals levering, overdracht,
-    vergunning enz. \> betreffende hierboven genoemde objecten
+-   Gebeurtenis gebaseerde zaken (Transacties) &LT; Zoals levering, overdracht,
+    vergunning enz. &GT; betreffende hierboven genoemde objecten
 
 -   Productie van bouwmaterialen & bouwproducten (hier wordt de GS1-code
     gebruikt)
@@ -615,7 +615,7 @@ relatie te leggen.
 Identificatie van objecten kan langs meerdere wegen plaatsvinden. Bijvoorbeeld
 identificatie door gebruik te maken van de unieke eigenschappen van:
 
-1.  Locatie \<ruimtelijk\>
+1.  Locatie &LT;ruimtelijk&GT;
 
 2.  Identificerende code
 
@@ -727,6 +727,9 @@ spelregels.
 
 In voorkomende situaties worden deze verwantschappen vastgelegd in een zogeheten
 [kennisgraaf](https://en.wikipedia.org/wiki/Knowledge_graph#:~:text=A%20knowledge%20graph%20is%20a,%E2%80%93%20with%20free%2Dform%20semantics.)[^18].
+
+[^18]: Pseuodoniem (Zie ook bijlage 4)
+
 Dat is een model waarin de verwantschappen tussen entiteiten uit meerdere
 domeinen beschreven worden. De gebruikte verwantschaps-operatoren geven aan hoe
 in voorkomende gevallen instanties geïnterpreteerd moeten worden. Dergelijke
@@ -735,7 +738,6 @@ indicatieve verwantschappen. Antwoorden vergaard met indicatieve verwantschappen
 kunnen helaas ook onjuistheden en onvolledigheden bevatten, los van de kwaliteit
 van de data.
 
-[^18]: Zie ook bijlage 4
 
 ### Gehanteerde ontwerpprincipes
 
@@ -760,7 +762,7 @@ uitgangspunten gehanteerd:
 
     1.  Identificeren van objecten (M0[^19])
 
-        [^19]: M0 niveau (zie NEN2660)
+[^19]: Pseuodoniem (M0 niveau zie NEN2660)
 
     2.  Relateren van objecten (M0)
 
